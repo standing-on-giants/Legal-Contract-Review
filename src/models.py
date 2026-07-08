@@ -2,7 +2,7 @@
 models.py — Typed Pydantic models for the Legal Contract Review environment.
 """
 from __future__ import annotations
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List, Optional 
 from pydantic import BaseModel, Field
 
 
