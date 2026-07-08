@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from src.environment import LegalContractEnv
-from src.models import ContractAction
+from src.models import ContractAction 
 
 app = FastAPI(
     title="Legal Contract Review — OpenEnv",
