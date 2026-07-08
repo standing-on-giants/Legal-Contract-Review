@@ -10,7 +10,7 @@ license: mit
 
 # Legal Contract Review — OpenEnv
 
-An RL environment where an agent reviews legal contracts, identifies risks, detects missing clauses, and proposes fixes.
+An RL environment where an agent reviews legal contracts, identifies risks, detects missing clauses, and proposes fixes. 
 
 ---
 
