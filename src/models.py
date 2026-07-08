@@ -62,7 +62,7 @@ class ContractObservation(BaseModel):
     contract_title: str
     available_sections: List[str]
     section_statuses: List[SectionStatus]
-    current_section_text: Optional[str] = None
+    current_section_text: Optional[str] = None 
     current_section_name: Optional[str] = None
 
     # Agent progress
