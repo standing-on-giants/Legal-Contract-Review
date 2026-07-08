@@ -7,7 +7,7 @@ Complexity targets (for benchmarking):
   medium — 10 sections, 6 real faults (incl. cross-section), 3 traps
   hard   — 14 sections, 9 real faults (incl. layered/definitional), 5 traps
 """
-from __future__ import annotations
+from __future__ import annotations 
 from typing import Dict, List
 from src.models import FaultEntry
 
