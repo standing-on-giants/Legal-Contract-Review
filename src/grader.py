@@ -22,7 +22,7 @@ def grade_episode(
     The agent does NOT need to supply the exact manifest clause_id.
     """
     real_faults = [f for f in fault_manifest if not f.is_trap]
-    trap_faults = [f for f in fault_manifest if f.is_trap]
+    trap_faults = [f for f in fault_manifest if f.is_trap] 
 
     true_positives   = 0
     false_positives  = 0
