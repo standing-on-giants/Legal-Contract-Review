@@ -16,7 +16,7 @@ An RL environment where an agent reviews legal contracts, identifies risks, dete
 
 ## Motivation
 
-Legal teams review contracts daily — NDAs, SaaS agreements, M&A term sheets. Missing a liability cap or a buried auto-renewal clause can cost organisations millions. This environment simulates that workflow: the agent acts as a junior associate, reading sections sequentially, flagging risky or non-standard clauses, detecting absent protections, suggesting replacement language, and producing a final signed-off review.
+Legal teams review contracts daily : NDAs, SaaS agreements, M&A term sheets. Missing a liability cap or a buried auto-renewal clause can cost organisations millions. This environment simulates that workflow: the agent acts as a junior associate, reading sections sequentially, flagging risky or non-standard clauses, detecting absent protections, suggesting replacement language, and producing a final signed-off review.
 
 The environment benchmarks agentic LLMs on tasks that require **sequential reasoning under a step budget**, **precision** (false positives are penalised), and **discrimination** between genuinely risky clauses and market-standard ones.
 
